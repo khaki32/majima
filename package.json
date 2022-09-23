@@ -1,0 +1,21 @@
+{
+  "name": "majima",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khaki32/majima.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khaki32/majima/issues"
+  },
+  "homepage": "https://github.com/khaki32/majima#readme",
+  "dependencies": {
+    "vite": "^3.1.3"
+  }
+}
